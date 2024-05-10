@@ -1,6 +1,4 @@
-provider "github" {
-    token = "token"
-}
+
 
 
 resource "github_repository" "Myfirst_github_repository" {

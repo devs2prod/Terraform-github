@@ -1,3 +1,3 @@
 provider "github" {
-    token = "token"
+    token = "${var.token}"
 }
